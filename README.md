@@ -4,4 +4,4 @@ EzQ system helps users to minimize the waiting time when queueing for food, medi
 
 By utilizing the advantage of cloud platform, users able to request a service ticket online using mobile phone and do more productive activities while waiting for their turn.
 
-Notes: This application is a MVP version
+Notes: This is a MVP
