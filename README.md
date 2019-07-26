@@ -1,4 +1,4 @@
-# EzQ-Prototype
+# EzQ-Prototype-React-Native
 
 EzQ system helps users to minimize the waiting time when queueing for food, medical treatment or banks affairs. The application will acts as a platform for all services that require your customers to queue in advance or avoid queue altogether.
 
